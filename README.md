@@ -1,5 +1,7 @@
 # Project Overview
 
+[![Watch Demo](https://img.youtube.com/vi/B9SXV5q4DfM/0.jpg)](https://youtu.be/B9SXV5q4DfM)
+
 This project explores real-time interpersonal interaction using computer vision and audio-visual synthesis.
 
 The system integrates:
@@ -58,3 +60,5 @@ Please clone the original YOLOv8 repository and integrate the provided files.
 3. Run YOLO inference
 
 4. Open the Max/MSP patch and connect to the data stream
+
+
