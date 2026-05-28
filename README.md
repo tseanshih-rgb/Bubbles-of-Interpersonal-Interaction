@@ -7,6 +7,8 @@ The system integrates:
 * YOLOv8 for object detection and spatial analysis
 * Max/MSP for real-time audio-visual interaction
 
+Collaborated with Martijn Bernard Straatsburg.
+
 ## System Pipeline
 
 1. Input (camera / video)
